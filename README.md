@@ -1,2 +1,2 @@
 # IVOR-Menu
-very old script with different set of functions
+Old tool for various tasks in ModPE
